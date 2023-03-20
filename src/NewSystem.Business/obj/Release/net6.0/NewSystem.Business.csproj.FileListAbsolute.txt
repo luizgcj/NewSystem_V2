@@ -1,0 +1,12 @@
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\bin\Release\net6.0\NewSystem.Business.deps.json
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\bin\Release\net6.0\NewSystem.Business.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\bin\Release\net6.0\NewSystem.Business.pdb
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.csproj.AssemblyReference.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.AssemblyInfo.cs
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\refint\NewSystem.Business.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\NewSystem.Business.pdb
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Business\obj\Release\net6.0\ref\NewSystem.Business.dll

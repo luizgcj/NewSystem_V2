@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMxQC6/w6uBlb7PAQRrr8VwRvUSiwKqWNvnaZOwb6hY8Dl1Eq2aMjBkM5Nd1HSroyPsWRwpQYiEA3PW3wd8D8g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos_CSharp\\Projeto_MVC\\NewSystem\\src\\NewSystem.Business\\NewSystem.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

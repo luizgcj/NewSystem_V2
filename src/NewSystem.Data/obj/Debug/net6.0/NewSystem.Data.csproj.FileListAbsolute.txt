@@ -1,0 +1,17 @@
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Data.deps.json
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Data.runtimeconfig.json
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Data.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Data.pdb
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Business.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\bin\Debug\net6.0\NewSystem.Business.pdb
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.csproj.AssemblyReference.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.AssemblyInfo.cs
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.csproj.CopyComplete
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\refint\NewSystem.Data.dll
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.pdb
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\NewSystem.Data.genruntimeconfig.cache
+C:\Projetos_CSharp\Projeto_MVC\NewSystem\src\NewSystem.Data\obj\Debug\net6.0\ref\NewSystem.Data.dll
